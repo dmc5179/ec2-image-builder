@@ -1,0 +1,6 @@
+*.swp
+bucket_policy_config.json
+component_config.yaml
+image_component_config.json
+image_recipe_config.json
+ansible.log
